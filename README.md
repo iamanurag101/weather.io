@@ -15,10 +15,8 @@ A simple weather web-app, made with the help of OpenWeatherAPI
 
 ## Screenshots
 
-![image](https://github.com/iamanurag101/weather.io/assets/139618603/fadb432c-9077-499a-9543-55ce0e8f2fd3)
-![image](https://github.com/iamanurag101/weather.io/assets/139618603/b0b43d2a-da89-472a-adeb-065cf76f27a4)
-
-
+![image](https://github.com/user-attachments/assets/e47d1605-a07e-4b06-b70b-39288622a347)
+![image](https://github.com/user-attachments/assets/5958b415-f1a6-4750-be04-407476ed9299)
 
 
 ## Run Locally
