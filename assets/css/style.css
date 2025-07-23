@@ -694,6 +694,15 @@ article.container::before {
 
 .footer .body-3:last-child { gap: 6px; }
 
+.footer a {
+  text-decoration: none;
+  display: inline-flex;
+}
+
+.footer a:hover {
+  color: orangered;
+}
+
 
 /*-----------------------------------*\
   #LOADING
